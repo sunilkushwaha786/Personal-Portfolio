@@ -161,7 +161,6 @@ section .title::after{
 }
 
 
-/* home section styling */
 .home{
     display: flex;
     background: url("./photo/IMG_2433.jpg") no-repeat center;
